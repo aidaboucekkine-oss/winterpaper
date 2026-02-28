@@ -1,0 +1,6 @@
+PaperTownSite/
+ ├─ index.html      ← homepage (must keep this name)
+ ├─ pikaper.html
+ ├─ papor.html
+ ├─ blacker.html
+ └─ images/         ← optional, for PNGs/GIFs
